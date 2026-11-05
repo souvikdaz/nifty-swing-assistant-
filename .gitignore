@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pkl
+
+# macOS
+.DS_Store
+
+# Streamlit secrets (local only)
+.streamlit/secrets.toml
